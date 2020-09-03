@@ -6,7 +6,7 @@ A web application to view Helm Chart.
 - Currently, only stable charts are supported.
 - Inspired by and Based on [npmview](https://github.com/pd4d10/npmview)
 
-## To Do
+## I will...
 - Support Every Charts in Helm Hub
 - Support Autocomplete on search chart
 
