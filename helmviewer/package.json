@@ -1,0 +1,46 @@
+{
+  "name": "helm-chart-viewer-web",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@blueprintjs/core": "^3.28.1",
+    "@types/jest": "25.2.3",
+    "@types/node": "14.0.9",
+    "@types/numeral": "^0.0.28",
+    "@types/react": "16.9.35",
+    "@types/react-dom": "16.9.8",
+    "@types/react-router-dom": "^5.1.5",
+    "@types/react-syntax-highlighter": "^11.0.3",
+    "esm": "^3.2.25",
+    "github-fork-ribbon-css": "^0.2.3",
+    "numeral": "^2.0.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-github-btn": "^1.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^3.4.3",
+    "react-syntax-highlighter": "^12.2.1",
+    "typescript": "3.9.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "author": "Kyoungsik Choi"
+}

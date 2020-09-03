@@ -1,0 +1,14 @@
+# This chart is deprecated and moved to https://github.com/grafana/helm2-grafana
+apiVersion: v1
+name: grafana
+deprecated: true
+version: 5.5.6
+appVersion: 7.1.1
+kubeVersion: "^1.8.0-0"
+description: The leading tool for querying and visualizing time series and metrics.
+home: https://grafana.net
+icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
+sources:
+  - https://github.com/grafana/grafana
+engine: gotpl
+tillerVersion: ">=2.12.0"
