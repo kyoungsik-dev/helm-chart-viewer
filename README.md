@@ -1,4 +1,5 @@
 # helm-chart-viewer
+A web application to view Helm Chart.
 
 ## 개요
 Helm Chart를 편하게 볼 수 있는 웹 어플리케이션입니다. 더 이상 Helm Chart의 내용을 보기 위해 매번 Chart를 설치할 필요가 없습니다!
